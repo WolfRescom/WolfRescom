@@ -33,4 +33,27 @@ Here are a few of my favorite projects. Check out my repositories for more!
     * Deployed on AWS (EC2, FastAPI, Postgres) serving 500+ queries/day with low latency.
 
 2.  **[miniGPT](https://github.com/WolfRescom/miniGPT)**
-    * A complete rebuild of the GPT-2 (124M)
+    * A complete rebuild of the GPT-2 (124M) model from scratch in PyTorch on the OpenWebText dataset.
+    * Demonstrates deep expertise in decoder-only transformer architectures, attention mechanisms, and large-scale model training.
+
+3.  **[eBay ML Challenge - Aspect Extraction](https://github.com/WolfRescom/ebay-ml-challenge)**
+    * Achieved a **Top 3 National** placement by building a multi-head NER model for 2M+ product listings.
+    * Improved F1/recall for rare entities by 15% using LLM-powered data augmentation and domain-adaptive pre-training.
+
+---
+
+### 💼 Experience
+
+* **GM Financial** | Software Engineer Intern (Applied AI) | *May 2025 - Aug 2025*
+* **Paramount Business Solutions** | Software Development Intern | *May 2024 - Jul 2024*
+* **Living with Robots Lab @ UT Austin** | Undergraduate Researcher | *Jan 2024 - Present*
+* **OpenVINO (Intel)** | Open-Source Contributor | *Feb 2025 - Present*
+
+---
+
+### 📫 How to Reach Me
+
+* **LinkedIn:** [https://www.linkedin.com/in/kunal-tiwari05/](https://www.linkedin.com/in/kunal-tiwari05/)
+* **Email:** [kunalesmail@gmail.com](mailto:kunalesmail@gmail.com)
+
+Feel free to explore my repositories or reach out with any questions!
