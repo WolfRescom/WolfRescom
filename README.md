@@ -54,6 +54,6 @@ Here are a few of my favorite projects. Check out my repositories for more!
 ### 📫 How to Reach Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/kunal-tiwari05/](https://www.linkedin.com/in/kunal-tiwari05/)
-* **Email:** [kunalesmail@gmail.com](mailto:kunalesmail@gmail.com)
+* **Email:** [kunalesmail@gmail.com](mailto:kunaltiwari2305@gmail.com)
 
 Feel free to explore my repositories or reach out with any questions!
