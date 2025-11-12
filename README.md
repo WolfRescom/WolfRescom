@@ -27,16 +27,16 @@ I'm passionate about building intelligent and scalable systems. My primary inter
 
 Here are a few of my favorite projects. Check out my repositories for more!
 
-1.  **[ChitChatCode.com](https://github.com/WolfRescom/ChitChatCode)**
+1.  **[ChitChatCode]([ChitChatCode.com](https://chitchatcode.com/))**
     * A full-stack AI application that lets developers query GitHub repositories using natural language.
-    * Built a scalable RAG pipeline using LangChain, Hugging Face embeddings, and ChromaDB.
+    * Built a scalable and extremely efficient RAG pipeline using LangChain, Hugging Face embeddings, and ChromaDB.
     * Deployed on AWS (EC2, FastAPI, Postgres) serving 500+ queries/day with low latency.
 
 2.  **[miniGPT](https://github.com/WolfRescom/miniGPT)**
     * A complete rebuild of the GPT-2 (124M) model from scratch in PyTorch on the OpenWebText dataset.
     * Demonstrates deep expertise in decoder-only transformer architectures, attention mechanisms, and large-scale model training.
 
-3.  **[eBay ML Challenge - Aspect Extraction](https://github.com/WolfRescom/ebay-ml-challenge)**
+3.  **[eBay ML Challenge - Aspect Extraction]([https://github.com/WolfRescom/ebay-ml-challenge](https://drive.google.com/drive/folders/1YK8Ug8EfoSlEO-7ahCTqSnVUfyGP9Duj?usp=sharing))**
     * Achieved a **Top 3 National** placement by building a multi-head NER model for 2M+ product listings.
     * Improved F1/recall for rare entities by 15% using LLM-powered data augmentation and domain-adaptive pre-training.
 
@@ -54,6 +54,6 @@ Here are a few of my favorite projects. Check out my repositories for more!
 ### 📫 How to Reach Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/kunal-tiwari05/](https://www.linkedin.com/in/kunal-tiwari05/)
-* **Email:** [kunalesmail@gmail.com](mailto:kunaltiwari2305@gmail.com)
+* **Email:** [kunaltiwari2305@gmail.com](mailto:kunaltiwari2305@gmail.com)
 
 Feel free to explore my repositories or reach out with any questions!
