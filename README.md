@@ -36,7 +36,7 @@ Here are a few of my favorite projects. Check out my repositories for more!
     * A complete rebuild of the GPT-2 (124M) model from scratch in PyTorch on the OpenWebText dataset.
     * Demonstrates deep expertise in decoder-only transformer architectures, attention mechanisms, and large-scale model training.
 
-3.  **[eBay ML Challenge - Aspect Extraction]([https://github.com/WolfRescom/ebay-ml-challenge](https://drive.google.com/drive/folders/1YK8Ug8EfoSlEO-7ahCTqSnVUfyGP9Duj?usp=sharing))**
+3.  **[eBay ML Challenge - Aspect Extraction](https://drive.google.com/drive/folders/1YK8Ug8EfoSlEO-7ahCTqSnVUfyGP9Duj?usp=sharing)**
     * Achieved a **Top 3 National** placement by building a multi-head NER model for 2M+ product listings.
     * Improved F1/recall for rare entities by 15% using LLM-powered data augmentation and domain-adaptive pre-training.
 
