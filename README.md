@@ -27,7 +27,7 @@ I'm passionate about building intelligent and scalable systems. My primary inter
 
 Here are a few of my favorite projects. Check out my repositories for more!
 
-1.  **[ChitChatCode]([ChitChatCode.com](https://chitchatcode.com/))**
+1.  **[ChitChatCode](https://chitchatcode.com/)**
     * A full-stack AI application that lets developers query GitHub repositories using natural language.
     * Built a scalable and extremely efficient RAG pipeline using LangChain, Hugging Face embeddings, and ChromaDB.
     * Deployed on AWS (EC2, FastAPI, Postgres) serving 500+ queries/day with low latency.
