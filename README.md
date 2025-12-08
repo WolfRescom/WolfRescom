@@ -8,18 +8,19 @@ I'm passionate about building intelligent and scalable systems. My primary inter
 
 ### 🚀 What I'm Currently Working On
 
+* 📡 Building a **Multi-Agent RL framework** for 5G edge computing at the **Learning Directed Operating Systems Lab**. I am utilizing PyTorch and Docker to coordinate network schedulers, successfully reducing P99 tail latency by 30%.
+* 📹 Optimizing real-time generative video editing at the **System Level Design Group**. My work involves benchmarking hybrid **VCMamba (Mamba+CNN)** architectures to achieve 2.2x faster inference and distilling models for edge deployment.
 * 🔬 Conducting research on pedestrian trajectory prediction as an **Undergraduate Researcher** at the **Living with Robots Lab @ UT Austin**.
-* 💾 Contributing to the **Intel OpenVINO** toolkit, implementing PyTorch operations in C++ and integrating new models to expand quantization support.
+* 💾 Contributing to the **Intel OpenVINO** toolkit, implementing PyTorch operations in C++ and integrating new models like DinoV2 to expand quantization support.
 * 🏆 Competing in the **eBay ML Challenge**, where I built a Top 3 nationally-ranked NER model for aspect extraction from product listings.
-* 🤝 Co-founding and developing **FundFlow**, a MERN-stack application to track and search university budget data.
 
 ---
 
 ### 🛠️ My Tech Stack
 
 * **Languages:** Python, Java, C, C++, SQL, HTML/CSS, JavaScript/TypeScript, CUDA
-* **AI/ML:** PyTorch, Tensorflow, Scikit-learn, LangChain, Hugging Face, spaCy, OpenGL, Computer Vision, NLP, Generative AI
-* **Tools & Platforms:** Git, Docker, Kubernetes, React, Node.js, Spring Hibernate, Spark, ROS, AWS, Azure, Linux
+* **AI/ML:** PyTorch, Tensorflow, Scikit-learn, LangChain, Hugging Face, spaCy, OpenGL, Computer Vision, RL, NeRF/3D Gaussian Splatting
+* **Tools & Platforms:** Git, Docker, Kubernetes, React, Node.js, ROS, AWS, Azure, Linux
 
 ---
 
@@ -44,10 +45,12 @@ Here are a few of my favorite projects. Check out my repositories for more!
 
 ### 💼 Experience
 
-* **GM Financial** | Software Engineer Intern (Applied AI) | *May 2025 - Aug 2025*
+* **Learning Directed Operating Systems Lab** | Undergraduate Researcher | *Oct 2025 - Present*
+* **GM Financial** | Machine Learning Engineer Intern | *May 2025 - Aug 2025*
+* **OpenVINO (Intel)** | Open-Source Contributor | *Feb 2025 - Present*
+* **System Level Design Group** | Undergraduate Researcher | *Jan 2025*
 * **Paramount Business Solutions** | Software Development Intern | *May 2024 - Jul 2024*
 * **Living with Robots Lab @ UT Austin** | Undergraduate Researcher | *Jan 2024 - Present*
-* **OpenVINO (Intel)** | Open-Source Contributor | *Feb 2025 - Present*
 
 ---
 
